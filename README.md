@@ -1,4 +1,4 @@
-Quest!
+Quest! v 0.1
 =====
 
-An other Framework for newbies
+An other Framework of PHP only for newbies
